@@ -18,7 +18,9 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a> 
 
-<p aligh="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krupahombre&show_icons=true&locale=en&layout=compact" alt="Krupahombre" /></p>
+<p aligh="left"><a href="https://github.com/Krupahombre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupahombre&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
   
 <!---
 Krupahombre/Krupahombre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

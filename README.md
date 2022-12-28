@@ -5,7 +5,7 @@
 - 🙍‍♂️ I'm 21 years old
 - 🏢 I'm 3rd year Computer Science student at [Wroclaw's University of Science and Technology](http://pwr.edu.pl/en/)
 - 👀 I’m interested in technology, video games, music and football
-- 🌱 I’m currently learning Java, PostgreSQL and Flutter
+- 🌱 I’m currently learning Java, Spring and PostgreSQL
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 

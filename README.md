@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🙍‍♂️ I'm 22 years old
+- 🙍‍♂️ I'm 23 years old
 - 🏢 I'm Computer Science student at [Wroclaw University of Science and Technology](http://pwr.edu.pl/en/)
 - 👀 I’m interested in technology, video games, music and football
 - 🌱 I’m currently learning FastAPI and React
